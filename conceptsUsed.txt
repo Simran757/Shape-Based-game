@@ -1,0 +1,11 @@
+Concepts used :
+    1.class
+    2.object
+    3.HAS-A
+    4.IS-A / inheritence
+    5.method overriding
+    6.upcasting
+    7.polymorphism
+    8.encasulation
+    9.interface
+    10.exception handling
